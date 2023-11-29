@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "netflix-react-training"
+  },
+  "targets": {
+    "netflix-react-training": {
+      "hosting": {
+        "nt-clone-react": [
+          "nt-react-app"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
