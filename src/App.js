@@ -6,7 +6,7 @@ import Login from './pages/Login';
 import Signup from './pages/Signup';
 import Account from './pages/Account';
 import ProtectedRoute from './components/ProtectedRoute';
-// https://www.youtube.com/watch?v=ATz8wg6sg30
+
 function App() {
   return (
     <>
